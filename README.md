@@ -1,17 +1,17 @@
-#FRONT END FRAMEWORK: 
+# FRONT END FRAMEWORK: 
 Angular 5
 
-#UI RESPONSIVENESS: 
+# UI RESPONSIVENESS: 
 Bootstrap?
 
-#UI: 
+# UI: 
 Angular Material
 
-#DATABASE:
+# DATABASE:
 Firebase / Cloud Firestore?
 
-#STATE MANAGEMENT:
+# STATE MANAGEMENT:
 Redux?  MobX? 
 
-#E2E TESTS:
+# E2E TESTS:
 Karma
