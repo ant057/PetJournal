@@ -2,16 +2,23 @@
 Angular 5
 
 # UI RESPONSIVENESS: 
+Angular Flexbox?
 Bootstrap?
 
 # UI: 
 Angular Material
 
 # DATABASE:
-Firebase / Cloud Firestore?
+Firebase?
+Cloud Firestore?
+
+# DATABASE LAYER:
+Angular Firebase?
 
 # STATE MANAGEMENT:
-Redux?  MobX? 
+Redux?  
+MobX? 
+ngrx?
 
 # E2E TESTS:
 Karma
